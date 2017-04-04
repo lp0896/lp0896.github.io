@@ -4,4 +4,8 @@
 
   技术栈：
 ---
-vue2.0、vue-router、axios、webpack、Es6、better-scroll、moment.js、progressbar.js、swiper.js、zepto.js、fonts、flex等
+  vue2.0、vue-router、axios、webpack、Es6、better-scroll、moment.js、progressbar.js、swiper.js、zepto.js、fonts、flex等
+
+  演示
+ ---
+  [在线演示戳我](https://lp0896.github.io "悬停显示")
