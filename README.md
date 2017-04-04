@@ -16,17 +16,17 @@
 
   组件
 ---
-    *Header
-      *collectionError
-      *collectionOk
-      *discountInfor
-      *slide
-    *buyCar
-    *CarControl
-    *Comments
-    *Detail
-    *Goods
-    *goodsDetail    
-    *ratingSelect
-    *split
-    *star
+    * Header
+      * collectionError
+      * collectionOk
+      * discountInfor
+      * slide
+    * buyCar
+    * CarControl
+    * Comments
+    * Detail
+    * Goods
+    * goodsDetail    
+    * ratingSelect
+    * split
+    * star
