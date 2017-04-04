@@ -13,3 +13,4 @@
   移动端（手机）演示
  ---
   打开手机，扫二维码查看效果
+  ![](https://lp0896.github.io/erweima.png)
