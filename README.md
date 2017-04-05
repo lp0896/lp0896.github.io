@@ -4,7 +4,20 @@
 
   技术栈：
 ---
-  vue2.0、vue-router、axios、webpack、Es6、better-scroll、moment.js、progressbar.js、swiper.js、zepto.js、fonts、flex等
+  * vue2.0
+  * vue-router
+  * axios
+  * vue-cli
+  * webpack
+  * Es6
+  * less
+  * better-scroll
+  * moment.js
+  * progressbar.js
+  * swiper.js
+  * zepto.js
+  * fonts
+  * flex等
 
   演示
  ---
