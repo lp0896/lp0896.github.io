@@ -49,9 +49,9 @@
   ![](https://lp0896.github.io/image/01.PNG)          ![](https://lp0896.github.io/image/02.PNG)          ![](https://lp0896.github.io/image/03.PNG)
   
   
-  ![](https://lp0896.github.io/image/04.PNG)          ![](https://lp0896.github.io/image/05.PNG)          ![](https://lp0896.github.io/image/06.PNG)
-
-  安装
+ ![](https://lp0896.github.io/image/04.PNG)          ![](https://lp0896.github.io/image/05.PNG)          ![](https://lp0896.github.io/image/06.PNG)
+  
+  安装
  ===
   项目地址：（git clone） <br>
     https://github.com/lp0896/lp0896.github.io.git <br>
@@ -96,7 +96,6 @@
   说明：
   ===
   本项目是我初学vue的一个练手项目，并不成熟，不免出现兼容性问题以及一些未知的bug，还请路过的大神指点一二，如果有正在学习vue的小伙伴，可以加我好友，互相学习！
-  
   QQ：936934769
   ---
   微信：lp0634
