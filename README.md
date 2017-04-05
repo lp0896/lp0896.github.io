@@ -63,11 +63,11 @@
   Vue.js 提供一个官方命令行工具，可用于快速搭建大型单页应用（SPA）。该工具提供开箱即用的构建工具配置，带来现代化的前端开发流程。只需几分钟即可创建并启动一个带热重载、保存时静态检查以及可用于生产环境的构建配置的项目。 <br>
   
 ### 使用步骤： <br>
-  1)全局安装，npm install -g vue-cli <br>
-  2)创建一个基于webpack模板的应用。 vue init webpack 应用名称  <br>
-  3)进入项目目录 cd 应用名称 <br>
-  4)安装依赖 npm install <br>
-  5)运行 npm run dev <br>
+    1)全局安装，npm install -g vue-cli <br>
+    2)创建一个基于webpack模板的应用。 vue init webpack 应用名称  <br>
+    3)进入项目目录 cd 应用名称 <br>
+    4)安装依赖 npm install <br>
+    5)运行 npm run dev <br>
  
 ### 优点： <br>
  
