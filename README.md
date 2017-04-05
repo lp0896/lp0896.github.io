@@ -25,7 +25,7 @@
   
   移动端（手机）演示
  ---
-  ![](https://lp0896.github.io/erweima.png)
+  ![](https://lp0896.github.io/sm.png)
 
   组件
 ---
