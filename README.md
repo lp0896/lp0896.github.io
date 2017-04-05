@@ -43,3 +43,7 @@
 * ratingSelect
 * split
 * star
+
+  预览图：
+ ---
+  ![](https://lp0896.github.io/sm.png)![](https://lp0896.github.io/sm.png)![](https://lp0896.github.io/sm.png)![](https://lp0896.github.io/sm.png)
