@@ -81,6 +81,6 @@
   交互：
  ===
     vue1.0的版本，处理http请求，官方推荐使用vue-resource，但升级到2.0以后，尤大推荐使用axios，使用更加简单。并且使用ES6了的promise对象。尤其需要注意的一点是：接口返回的res并不直接是返回的数据，而是经过axios本身处理过的json对象。真正的数据在res.data里： <br>
-  `axios.get(url).then((res)=>{
-      this.data = res.data
-  })`
+  `axios.get(url).then((res)=>{ <br>
+      this.data = res.data <br> <br>
+  })` <br>
