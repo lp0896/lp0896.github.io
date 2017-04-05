@@ -9,7 +9,7 @@
   * axios
   * vue-cli
   * webpack
-  * Es6
+  * ES6
   * less
   * better-scroll
   * moment.js
