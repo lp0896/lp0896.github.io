@@ -54,5 +54,5 @@
   安装
 ---
   项目地址：（git clone）
-  
- （注意：MT文件夹下面才是完整的项目包，npm install---npm run dev）
+  https://github.com/lp0896/lp0896.github.io.git
+ （注意：MT文件夹下面才是完整的项目包，npm install(安装包依赖)---npm run dev（开启服务器））
