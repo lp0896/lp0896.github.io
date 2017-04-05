@@ -56,18 +56,18 @@
   项目地址：（git clone） <br>
     https://github.com/lp0896/lp0896.github.io.git <br>
 ### 注意：<br>
-    MT文件夹下面是完整的项目包，npm install(安装包依赖)---npm run dev（开启服务器） <br>
+    MT文件夹下面是完整的项目包，npm install(安装包依赖)---npm run dev（开启服务器）
   
   构建：
  ===
-  Vue.js 提供一个官方命令行工具，可用于快速搭建大型单页应用（SPA）。该工具提供开箱即用的构建工具配置，带来现代化的前端开发流程。只需几分钟即可创建并启动一个带热重载、保存时静态检查以及可用于生产环境的构建配置的项目。 <br>
+  Vue.js 提供一个官方命令行工具，可用于快速搭建大型单页应用（SPA）。该工具提供开箱即用的构建工具配置，带来现代化的前端开发流程。只需几分钟即可创建并启动一个带热重载、保存时静态检查以及可用于生产环境的构建配置的项目。
   
 ### 使用步骤： <br>
-    1)全局安装，npm install -g vue-cli <br>
-    2)创建一个基于webpack模板的应用。 vue init webpack 应用名称  <br>
-    3)进入项目目录 cd 应用名称 <br>
-    4)安装依赖 npm install <br>
-    5)运行 npm run dev <br>
+    1)全局安装，npm install -g vue-cli 
+    2)创建一个基于webpack模板的应用。 vue init webpack 应用名称
+    3)进入项目目录 cd 应用名称
+    4)安装依赖 npm install
+    5)运行 npm run dev
  
 ### 优点： <br>
  
@@ -80,16 +80,16 @@
   
   交互(Axios)：
  ===
-    vue1.0的版本，处理http请求，官方推荐使用vue-resource，但升级到2.0以后，尤大推荐使用axios，使用更加简单。并且使用ES6了的promise对象。尤其需要注意的一点是：接口返回的res并不直接是返回的数据，而是经过axios本身处理过的json对象。真正的数据在res.data里： <br>
+    vue1.0的版本，处理http请求，官方推荐使用vue-resource，但升级到2.0以后，尤大推荐使用axios，使用更加简单。并且使用ES6了的promise对象。尤其需要注意的一点是：接口返回的res并不直接是返回的数据，而是经过axios本身处理过的json对象。真正的数据在res.data里： 
   `axios.get(url).then((res)=>{
     this.data = res.data <br>
   })`
 
   路由（Vue-Router）
 ===
-  vue-router是vue的路由系统，可以用来创建单页应用。基本思想是在主页面中引入标签，然后定义路由，把router挂在到app上，然后把各个子页面渲染到view里面
-  
-  状态管理器（Vuex）
+  vue-router是vue的路由系统，可以用来创建单页应用。基本思想是在主页面中引入标签，然后定义路由，把router挂在到app上，然后把各个子页面渲染到view里面。
+  
+  状态管理器（Vuex）
 ===
   Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。简单点说，在vue使用过程中，我们经常进行组件之间的通信，组件之间的作用域独立，而组件之间经常又需要传递数据。A传给B数据，B使用数据的同时，A又需要操作B的数据，当数据量较小时，我们还能理清思路，数据量很大的情况下，就懵逼了。由此，Vuex诞生了。它可以将数据置于单独的一层，并提供给外部操作内部数据的方法。本项目没有涉及到Vuex，没有进行深入思考，待我研究研究再写吧。
   
