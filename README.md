@@ -50,3 +50,9 @@
   
   
   ![](https://lp0896.github.io/image/04.PNG)          ![](https://lp0896.github.io/image/05.PNG)          ![](https://lp0896.github.io/image/06.PNG)
+
+  安装
+---
+  项目地址：（git clone）
+  
+ （注意：MT文件夹下面才是完整的项目包，npm install---npm run dev）
