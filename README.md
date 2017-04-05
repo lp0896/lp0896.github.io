@@ -55,4 +55,5 @@
 ---
   项目地址：（git clone） <br>
   https://github.com/lp0896/lp0896.github.io.git <br>
-（注意：MT文件夹下面才是完整的项目包，npm install(安装包依赖)---npm run dev（开启服务器））<br>
+  注意：<br>
+  MT文件夹下面是完整的项目包，npm install(安装包依赖)---npm run dev（开启服务器）<br>
