@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'mt-icomoon';
+  src:  url('../fonts/mt-icomoon.eot?2gsu9x');
+  src:  url('../fonts/mt-icomoon.eot?2gsu9x#iefix') format('embedded-opentype'),
+    url('../fonts/mt-icomoon.ttf?2gsu9x') format('truetype'),
+    url('../fonts/mt-icomoon.woff?2gsu9x') format('woff'),
+    url('../fonts/mt-icomoon.svg?2gsu9x#mt-icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mt-icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-address:before {
+  content: "\e910";
+}
+.icon-environment:before {
+  content: "\e911";
+}
+.icon-service:before {
+  content: "\e912";
+}
+.icon-telphone:before {
+  content: "\e913";
+}
+.icon-time:before {
+  content: "\e914";
+}
+.icon-add:before {
+  content: "\e90d";
+}
+.icon-decrease:before {
+  content: "\e90f";
+}
+.icon-buyCar:before {
+  content: "\e90e";
+}
+.icon-close:before {
+  content: "\e900";
+}
+.icon-horn:before {
+  content: "\e901";
+}
+.icon-nextBig:before {
+  content: "\e902";
+}
+.icon-nextSmall:before {
+  content: "\e903";
+}
+.icon-oppose:before {
+  content: "\e904";
+}
+.icon-prev:before {
+  content: "\e905";
+}
+.icon-search:before {
+  content: "\e906";
+}
+.icon-share:before {
+  content: "\e907";
+}
+.icon-starEmpty:before {
+  content: "\e908";
+}
+.icon-starHalf .path1:before {
+  content: "\e909";
+  color: rgb(255, 255, 255);
+}
+.icon-starHalf .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(244, 234, 42);
+}
+.icon-starSolid:before {
+  content: "\e90b";
+}
+.icon-support:before {
+  content: "\e90c";
+}
+
